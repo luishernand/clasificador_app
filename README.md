@@ -1,4 +1,4 @@
-# clasificador_app  
+# clasificador
 ## web app creada con la libreria streamlit de python  
 
 ### Descripción:  
