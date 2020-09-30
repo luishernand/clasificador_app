@@ -6,3 +6,4 @@
 Este aplicación creada en python con modelos de machine learning y la libreria streamlit, permite seleccionar los datos y los paramteros introducidos por el usuario
 
 [web app](https://clasificador-app.herokuapp.com/)
+[clasificador con mejoras](https://clasificadorapp.herokuapp.com/)
